@@ -1,0 +1,20 @@
+li{
+    height: 240px;
+    width: 250px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: bisque;
+    border-radius: 20px;
+    font-family:  "Lucida Handwriting", cursive;
+    box-shadow: 0 4px 3px;
+}
+
+img{
+    border-radius: 65px;
+}
+img:hover {
+    opacity: 0.8;   
+    }

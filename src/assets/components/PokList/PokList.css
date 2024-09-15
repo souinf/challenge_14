@@ -1,0 +1,14 @@
+.ul{
+ 
+    width: 96%;
+    height: 500px;
+    display:grid;
+    grid-template-columns: auto auto auto auto ;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 60px;
+   margin-bottom: 400px;
+    gap:40px;
+   
+}
